@@ -1,8 +1,12 @@
 body{
-  background: rgb(200, 200, 200);
+  background: lightcyan;
 }
 
 h1{
-  color: green;
+  color: rgb(0, 255, 0);
+  text-align: center;
+}
+
+h2{
   text-align: center;
 }
