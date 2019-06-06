@@ -1,0 +1,67 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 3,
+      "Title": "adads",
+      "Schwierigkeit": 5,
+      "Bewertung": 10,
+      "Zutaten": "asd",
+      "Dauer": "domas"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "soups": [
+    {
+      "id": 1,
+      "Title": "20-Min-Thai-Suppe",
+      "Schwierigkeit": "Schwierigkeit: 4",
+      "Bewertung": "Bewertung: 9.5",
+      "Zutaten": "Zutaten: 2 Knoblauchzehen, 2 cm Ingwer, 2 EL Kokosöl oder neutrales Öl, 2 EL Rote Currypaste, 350 g Hähncheninnenfilet, 1,2 L kochende Gemüsebrühe, 400 ml Kokosmilch, 4 EL Sojasauce, etwas Fischsauce, 100 g Glasnudeln, Handvoll Korianderisse",
+      "Dauer": "Dauer: ca. 20 Minuten",
+      "Beschreibung": "Beschreibung: Knoblauch und Ingwer schälen und fein hacken. Kokosöl in einem großen Topf erhitzen und Knoblauch, Ingwer und Currypaste für ein paar Minuten bei mittlerer Hitze garen. Hähnchenfleisch in mundgerechte Stücke schneiden. In den Topf geben und braten, bis es von allen Seiten hell und nicht mehr glasig ist. Mit Gemüsebrühe und Kokosmilch ablöschen. Mit Sojasauce und Fischsauce nach Geschmack abschmecken. Glasnudeln hinzufügen und 2-3 Minuten weich werden lassen. Koriander hacken und mit der Suppe genießen."
+    },
+    {
+      "id": 2,
+      "Title": "Hühnersuppe",
+      "Schwierigkeit": "Schwierigkeit: 3",
+      "Bewertung": "Bewerten: 6,5",
+      "Zutaten": "Zutaten: 1 Suppenhuhn (oder Hühnerteile), 1 Bund Suppengrün, 1 Bund Petersilie, 2 Gewürznelken, 1 Lorbeerblatt, 3 Pfefferkörner, 1 TL Salz",
+      "Dauer": "Dauer: ca. 60 Minuten",
+      "Beschreibung": "Beschreibung: Das Suppenhuhn sowie das Suppengemüse und die Kräuter waschen. Damit das Huhn besser in den Topf passt, kann man es auch bereits vor dem Kochen zerteilen. In einem sehr großen Topf Suppenhuhn und die Gewürze hineingeben. Mit kaltem Wasser aufgießen, bis das Suppenhuhn zur Gänze bedeckt ist. Mit Salz würzen und die Suppe aufkochen lassen. Nun ca. 4 Stunden bei geringer Hitze köcheln bzw. ziehen lassen. Wichtig ist dabei, den Deckel leicht auf den Suppentopf zu setzen, damit die Flüssigkeit nicht verdampft. Immer wieder das Fett abschöpfen, damit die Suppe nicht trüb wird. Ungefähr 20 Minuten vor Ende der Garzeit Gemüse und Petersilie hinzufügen. Nachdem die Suppe fertig ist, das Suppenhuhn herausnehmen und das Fleisch herauslösen. In mundgerechte Stücke schneiden. Die Suppe durch ein Sieb abgießen und in einem anderen Topf wieder auffangen. Das Suppengemüse in kleine Würfel schneiden. Nun einen Teil des Hühnerfleischs und der Gemüsewürfel in einen Teller geben und mit der heißen Hühnersuppe aufgießen. Mit Einlagen nach Belieben servieren."
+    }
+  ],
+  "vegetarian": [
+    {
+      "id": 1,
+      "Title": "Eierspeise",
+      "Schwierigkeit": "Schwierigkeit: 1",
+      "Bewertung": "Bewertung: 5",
+      "Zutaten": "Zutaten: Eier, Salz, Pfeffer, Butter",
+      "Dauer": "Dauer: ca. 4 Minuten",
+      "Beschreibung": "Beschreibung: Man nehme die Butter und lässt sie in der Pfanne schmelzen. Danach schlagen Sie die Eier in die Pfanne und rührt sie mit einer Gabel solange bis sie fest sind. Als nächstes geben Sie die fast fertige Speise auf einen Teller und würzen Sie nach Belieben."
+    },
+    {
+      "id": 2,
+      "Title": "Semmelknödel",
+      "Schwierigkeit": "Schwierigkeit: 2",
+      "Bewertung": "Bewertung: 7.5",
+      "Zutaten": "Zutaten: 300g Semmelwürfel, 100g Mehl, 220ml Milch, 1 Prise Salz, 1 Stk Suppenwürfel, 1 Stk Ei, 3 EL Petersillie, 1 Prise Muskat",
+      "Dauer": "Dauer: ca. 35 Minuten",
+      "Beschreibung": "Für die Semmelknödel zuerst die Semmelwürfel in eine Schüssel geben. Dann die restlichen Zutaten wie Ei, Mehl, Muskat, Salz, Suppenwürfel, Milch hinzufügen. Zum Schluß gehackten Petersilie unterrühren. Diese Masse gur verrühren und für ca. 10 Minuten rasten lassen. Mit dieser Masse beliebig große Knödel formen, dabei öfter die Hände feucht machen, damit die Knödelmasse nicht klebt. In einem großen Topf Salzwasser zum Kochen bringen und die fertig geformten Semmelknödel darin ca. 12-15 Minuten bei kleiner Flamme köcheln lassen."
+    }
+  ]
+}
